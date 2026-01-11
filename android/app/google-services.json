@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035276027199",
+    "project_id": "tarimus-db",
+    "storage_bucket": "tarimus-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035276027199:android:ea17244c879cb6cd377f8a",
+        "android_client_info": {
+          "package_name": "com.example.tarimus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdYpzUKWaMx1oIZWr_wRP-hcTRy8bxSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
